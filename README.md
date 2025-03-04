@@ -13,13 +13,13 @@ This project is a template for setting up a basic C++ project using OpenCV. It u
 
 ## MAC Requirements
 
-- **Homebrew**
+- **Homebrew**: Install it, if it is not already.
 
   ```sh
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
 
-- **CMake and Compiler**:
+- **CMake and Compiler**: We need a C compiler to run our project.
 
   ```sh
   brew install cmake ninja llvm
@@ -27,12 +27,16 @@ This project is a template for setting up a basic C++ project using OpenCV. It u
 
 ## Build and run the project
 
+### Mac
+
+For the mac users, we are going to use Visual Studio code.
+
 First, we have to install some required extension.
 
 - CMake Tools (by Microsoft)
 - C/C++ (by Microsoft)
 
-### MAC
+Then:
 
 1. Open the project folder in Visual Studio Code
 2. Cmd + Shift + P -> CMake: Select a Kit -> And select: /usr/bin/clang
@@ -43,6 +47,8 @@ First, we have to install some required extension.
 That’s it! 🎉 Your CMake project is now set up, built, and running on macOS in VS Code. 🚀
 
 ### Windows
+
+For Windows users, we recommend to use Visual Studio 2022
 
 1. Open the project folder in Visual Studio
 2. Wait for the build then Run
