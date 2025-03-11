@@ -42,7 +42,7 @@ Then:
 2. Cmd + Shift + P -> CMake: Select a Kit -> And select: /usr/bin/clang
 3. Cmd + Shift + P -> CMake: Configure
 4. Cmd + Shift + P -> CMake: CMake: Build
-5. Cmd + Shift + P -> CMake: CMake: Run without Debugging
+5. Cmd + Shift + P -> CMake: Run without Debugging
 
 That’s it! 🎉 Your CMake project is now set up, built, and running on macOS in VS Code. 🚀
 
