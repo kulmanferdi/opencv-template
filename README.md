@@ -31,7 +31,7 @@ This project is a template for setting up a basic C++ project using OpenCV. It u
 
 For the mac users, we are going to use Visual Studio code.
 
-First, we have to install some required extension.
+First, we have to install some required extensions.
 
 - CMake Tools (by Microsoft)
 - C/C++ (by Microsoft)
