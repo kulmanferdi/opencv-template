@@ -13,7 +13,7 @@ This project is a template for setting up a basic C++ project using OpenCV. It u
 
 ## MAC Requirements
 
-- **Homebrew**: Install it, if it is not already.
+- **Homebrew**: Install it if it is not already installed, and make sure to add it to your path. (The required commands can be found at the end of the installation.)
 
   ```sh
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -29,7 +29,7 @@ This project is a template for setting up a basic C++ project using OpenCV. It u
 
 ### Mac
 
-For the mac users, we are going to use Visual Studio code.
+For the Mac users, we recommend using Visual Studio Code.
 
 First, we have to install some required extensions.
 
